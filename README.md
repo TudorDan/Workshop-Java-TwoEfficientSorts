@@ -7,6 +7,7 @@
 2. ## [Quick Sort Algorithm](#Quick-Sort-Algorithm)
 ---
 - You can also find here 3 samples of simple sorts (_Insertion Sort_, _Selection Sort_ and _Bubble Sort_).
+- For the C# version of the workshop, go to [Csharp Sorts](https://github.com/TudorDan/Workshop-Java-TwoEfficientSorts).
 
 # Merge Sort Algorithm
 ![Merge sort Diagram](mergeSort.png)
